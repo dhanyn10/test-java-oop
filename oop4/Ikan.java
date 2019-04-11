@@ -1,4 +1,4 @@
-package tes.java.oop4;
+package oop4;
 
 public class Ikan extends Hewan{
 

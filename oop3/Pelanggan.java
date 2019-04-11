@@ -1,4 +1,4 @@
-package tes.java.oop3;
+package oop3;
 
 public class Pelanggan {
     String nama;
