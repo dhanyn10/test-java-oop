@@ -1,6 +1,6 @@
 package oop6;
 
-public class Hewan {
+public abstract class Hewan {
     int usia;
     String nama;
     String habitat;
@@ -15,4 +15,6 @@ public class Hewan {
     {
         System.out.println("berlari...");
     }
+
+    public abstract void move();
 }
