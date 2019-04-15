@@ -7,4 +7,8 @@ public class Ayam extends Burung
     {
         super(usia, nama, habitat);
     }
+
+	public void terbang() {
+		System.out.println("gak bisa terbang");
+	}
 }

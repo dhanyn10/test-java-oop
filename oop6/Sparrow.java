@@ -8,9 +8,7 @@ public class Sparrow extends Burung implements Flyable
     {
         super(usia, nama, habitat);
     }
-    
-    public void terbang()
-    {
-        System.out.println("Sparrow terbang tinggi");
-    }
+	public void terbang() {
+		System.out.println("terbang tinggi");
+	}
 }
